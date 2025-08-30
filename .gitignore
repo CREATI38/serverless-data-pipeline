@@ -1,0 +1,4 @@
+# Terraform local state and providers (ensure .terraform and statefiles are never commited)
+**/.terraform/*
+*.tfstate
+*.tfstate.backup
